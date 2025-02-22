@@ -34,38 +34,9 @@ I develop augmentation methods by hand-crafted functions and generative models t
 {% include_relative _includes/education.md %}
 
 
-* Ph.D. in Computer Science, 2022 - 2025
+## Work Experience
 
-    EURECOM, Sorbonne University & HUAWEI Paris Research Center <br/>
-
-* M.E. in System Engineering, 2019 - 2022
-
-    Beihang University <br/>
-
-* Engineering degree in Data Science and Information, 2018 - 2021
-
-    CentraleSupélec, Paris-Saclay University <br/>
-
-* B.S. in Mathematics and Applied Mathematics, 2015 - 2019
-
-    Beihang University <br/>
-
-
-## Research Experience
-
-- CIFRE @ HUAWEI Paris Research Center, Sep. 2022 - Sep. 2025
-
-    Hosts: Alessandro Finamore, Massimo Gallo <br/>
-
-- Research Intern @ HUAWEI Paris Research Center, Apr. 2021 - Oct. 2021
-
-    Hosts: Alessandro Finamore, Lixuan Yang <br/>
-
-- Research Intern @ EDF R&D, July 2020 - Sep. 2020
-
-    Host: Elliot Butty <br/>
-
-
+{% include_relative _includes/experience.md %}
 
 
 
