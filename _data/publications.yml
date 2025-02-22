@@ -39,7 +39,7 @@ main:
 
   - title: "AppClassNet: a commercial-grade dataset for application identification research"
     authors: <strong>Chao Wang<strong>, Alessandro Finamore, Lixuan Yang, Kevin Fauvel, Dario Rossi
-    conference_short: SIGCOMM Computer Communication Review
+    conference_short: CCR
     conference: ACM SIGCOMM Computer Communication Review, 2022.
     pdf: https://dl.acm.org/doi/10.1145/3561954.3561958
     image: ./assets/img/teaser_example.png
