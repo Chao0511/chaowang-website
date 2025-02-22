@@ -28,18 +28,28 @@ I develop augmentation methods by hand-crafted functions and generative models t
 - **[Mar. 2024]** Our paper "Data Augmentation for Traffic Classification" is accepted to Passive and Active Measurement Conference (**PAM**) 2024, and is selected as **best paper runner-up**!
 - **[Oct. 2023]** Our paper "Contrastive Learning and Data Augmentation in Traffic Classification Using a Flowpic Input Representation" is accepted to Proceedings of ACM on Internet Measurement Conference (**IMC**) 2023!
 
+{% include_relative _includes/education.md %}
 
 
 ## Education
 
 
-- Ph.D. in Computer Science, EURECOM, Sorbonne University & HUAWEI Paris Research Center, 2022 - 2025
+* Ph.D. in Computer Science, 2022 - 2025
 
-- M.E. in System Engineering, Beihang University, 2019 - 2022
+    EURECOM, Sorbonne University & HUAWEI Paris Research Center <br/>
 
-- Engineering degree in Data Science and Information, CentraleSupélec, Paris-Saclay University, 2018 - 2021
+* M.E. in System Engineering, 2019 - 2022
 
-- B.S. in Mathematics and Applied Mathematics, Beihang University, 2015 - 2019
+    Beihang University <br/>
+
+* Engineering degree in Data Science and Information, 2018 - 2021
+
+    CentraleSupélec, Paris-Saclay University <br/>
+
+* B.S. in Mathematics and Applied Mathematics, 2015 - 2019
+
+    Beihang University <br/>
+
 
 ## Research Experience
 
