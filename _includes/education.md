@@ -1,9 +1,9 @@
+
 <ul>
-    <li>item 1</li>
-        <ul> 
-            <li>Subitem 1</li>
-            <li>Subitem 2</li>
-        </ul>
-    <li>item 2</li>
-    <li>item 3</li>
+    <li>Ph.D. in Computer Science, 2022 - 2025<br/><br/></li>
+    <li>EURECOM, Sorbonne University & HUAWEI Paris Research Center</li>
+    <li>Line 3</li>
+    <li>Line 4<br/><br/></li>
+    <li>Line 5</li>
 </ul>
+
