@@ -15,7 +15,6 @@ I also interned at HUAWEI Paris Research Center and EDF R&D France. My research 
 Generative models (e.g. Diffusion Models, Flow Matching models) for multimodal conditional generation (e.g. Text-to-Image) still face challenges on aligning the generated samples with complex condition signals.
 I develop generative models-based Multual Information (MI) estimators, and use MI to guide model alignment.
 
-
 - Data augmentation for network Traffic Classification (TC): 
 In TC, large-scale datasets with high-quality labeling is expensive. 
 To alleviate this burden,
@@ -52,15 +51,15 @@ I develop augmentation methods by hand-crafted functions and generative models t
 
 ## Research Experience
 
-- CIFRE \@ HUAWEI Paris Research Center, Sep. 2022 - Sep. 2025
+- CIFRE @ HUAWEI Paris Research Center, Sep. 2022 - Sep. 2025
 
     Hosts: Alessandro Finamore, Massimo Gallo <br/>
 
-- Research Intern \@ HUAWEI Paris Research Center, Apr. 2021 - Oct. 2021
+- Research Intern @ HUAWEI Paris Research Center, Apr. 2021 - Oct. 2021
 
     Hosts: Alessandro Finamore, Lixuan Yang <br/>
 
-- Research Intern \@ EDF R\&D, July 2020 - Sep. 2020
+- Research Intern @ EDF R&D, July 2020 - Sep. 2020
 
     Host: Elliot Butty <br/>
 
