@@ -25,7 +25,9 @@ I develop augmentation methods by hand-crafted functions and generative models t
 ## News
 
 - **[Jan. 2025]** Our paper "Information Theoretic Text-to-Image Alignment" is accepted to International Conference on Learning Representations (**ICLR**) 2025!
+
 - **[Mar. 2024]** Our paper "Data Augmentation for Traffic Classification" is accepted to Passive and Active Measurement Conference (**PAM**) 2024, and is selected as **best paper runner-up**!
+
 - **[Oct. 2023]** Our paper "Contrastive Learning and Data Augmentation in Traffic Classification Using a Flowpic Input Representation" is accepted to Proceedings of ACM on Internet Measurement Conference (**IMC**) 2023!
 
 
