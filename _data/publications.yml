@@ -3,7 +3,7 @@ main:
   - title: "Information Theoretic Text-to-Image Alignment"
     authors: Chao Wang, Giulio Franzese, Alessandro Finamore, Massimo Gallo, Pietro Michiardi
     conference_short: ICLR
-    conference: International Conference on Learning Representations (ICLR)</strong>, 2025.
+    conference: International Conference on Learning Representations (ICLR), 2025.
     pdf: https://arxiv.org/abs/2405.20759
     page: https://chao0511.github.io/mitune/
     image: ./assets/img/teaser_example.png
@@ -11,7 +11,7 @@ main:
   - title: "Data Augmentation for Traffic Classification"
     authors: Chao Wang, Alessandro Finamore, Pietro Michiardi, Massimo Gallo, Dario Rossi
     conference_short: PAM
-    conference: Passive and Active Measurement Conference (PAM)</strong>, 2024.
+    conference: Passive and Active Measurement Conference (PAM), 2024.
     pdf: https://link.springer.com/chapter/10.1007/978-3-031-56249-5_7
     notes: Best paper runner-up
     image: ./assets/img/teaser_example.png
@@ -50,3 +50,4 @@ main:
     conference: IEEE International Conference on Teaching, Assessment and Learning for Engineering (TALE), 2024.
     pdf: https://www.eurecom.fr/en/publication/8034
     image: ./assets/img/teaser_example.png
+  
