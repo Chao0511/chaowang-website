@@ -1,7 +1,7 @@
 
 <ul>
     <li class="text">
-      <label> <span style="color:#3399CC"><strong>Ph.D. in Computer Science</strong> </span> </label>
+      <label> <strong> <span style="color:#3399CC">Ph.D. in Computer Science</span> </strong>  </label>
       <p> EURECOM, Sorbonne University & HUAWEI Paris Research Center<br>Sep. 2022 - Sep. 2025</p>
     </li>
     <li class="text">
