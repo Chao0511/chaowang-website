@@ -2,8 +2,7 @@
 <ul>
     <li class="text">
       <label> Ph.D. in Computer Science</label>
-      <p> EURECOM, Sorbonne University & HUAWEI Paris Research Center </p>
-      <p> 2022 - 2025 </p>
+      <p> EURECOM, Sorbonne University & HUAWEI Paris Research Center<br>2022 - 2025 </p>
     </li>
     <li class="text">
       <label> M.E. in System Engineering, 2019 - 2022</label>
