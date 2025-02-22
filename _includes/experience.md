@@ -1,6 +1,6 @@
 <ul>
     <li class="text">
-      <label> <strong>CIFRE @ HUAWEI Paris Research Center</strong></label>
+      <label> <autocolor><strong>CIFRE @ HUAWEI Paris Research Center</strong></label>
       <p> Hosts: Alessandro Finamore, Massimo Gallo<br>Sep. 2022 - Sep. 2025</p>
     </li>
     <li class="text">
