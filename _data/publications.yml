@@ -19,7 +19,7 @@ main:
   - title: "Toward Generative Data Augmentation for Traffic Classification"
     authors: Chao Wang, Alessandro Finamore, Pietro Michiardi, Massimo Gallo, Dario Rossi
     conference_short: CoNEXT-SW
-    conference: Conference on emerging Networking EXperiments and Technologies (CoNEXT), Student Workshop, 2023.
+    conference: Conference on emerging Networking EXperiments and Technologies - Student Workshop (CoNEXT-SW), 2023.
     pdf: https://dl.acm.org/doi/abs/10.1145/3630202.3630224
     image: ./assets/img/teaser_example.png
 
