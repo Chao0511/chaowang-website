@@ -9,7 +9,7 @@
       <p> Beihang University<br>Sep. 2019 - Jun. 2022</p>
     </li>
     <li class="text">
-      <label> <strong> <span style="font-size:larger;color:#3399CC;font-weight: bolder;">Engineering degree in Data Science and Information</span> </strong></label>
+      <label> <strong> <span style="font-size:larger;color:#3399CC;font-weight: bolder;">M.E. (Diplôme d'ingénieur) in Data Science and Information</span> </strong></label>
       <p> CentraleSupélec, Paris-Saclay University<br>Sep. 2018 - Dec. 2021</p>
     </li>
     <li class="text">
