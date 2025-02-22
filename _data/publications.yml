@@ -9,7 +9,7 @@ main:
  
 
   - title: "Data Augmentation for Traffic Classification"
-    authors: Chao Wang, Alessandro Finamore, Pietro Michiardi, Massimo Gallo, Dario Rossi
+    authors: <strong>Chao Wang</strong>, Alessandro Finamore, Pietro Michiardi, Massimo Gallo, Dario Rossi
     conference_short: PAM
     conference: Passive and Active Measurement Conference (PAM), 2024.
     pdf: https://link.springer.com/chapter/10.1007/978-3-031-56249-5_7
@@ -17,35 +17,35 @@ main:
  
 
   - title: "Toward Generative Data Augmentation for Traffic Classification"
-    authors: Chao Wang, Alessandro Finamore, Pietro Michiardi, Massimo Gallo, Dario Rossi
+    authors: <strong>Chao Wang</strong>, Alessandro Finamore, Pietro Michiardi, Massimo Gallo, Dario Rossi
     conference_short: CoNEXT-SW
     conference: Conference on emerging Networking EXperiments and Technologies - Student Workshop (CoNEXT-SW), 2023.
     pdf: https://dl.acm.org/doi/abs/10.1145/3630202.3630224
  
 
   - title: "Contrastive Learning and Data Augmentation in Traffic Classification Using a Flowpic Input Representation"
-    authors: Alessandro Finamore, Chao Wang, Jonatan Krolikowski, Jose M Navarro, Fuxing Chen, Dario Rossi
+    authors: Alessandro Finamore, <strong>Chao Wang</strong>, Jonatan Krolikowski, Jose M Navarro, Fuxing Chen, Dario Rossi
     conference_short: IMC
     conference: Proceedings of ACM on Internet Measurement Conference (IMC), 2023.
     pdf: https://dl.acm.org/doi/10.1145/3618257.3624820
  
 
   - title: "Many or Few Samples? Comparing Transfer, Contrastive and Meta-Learning in Encrypted Traffic Classification"
-    authors: Idio Guarino, Chao Wang, Alessandro Finamore, Antonio Pescape, Dario Rossi
+    authors: Idio Guarino, <strong>Chao Wang</strong>, Alessandro Finamore, Antonio Pescape, Dario Rossi
     conference_short: TMA
     conference: Network Traffic Measurement and Analysis Conference (TMA), 2023.
     pdf: https://ieeexplore.ieee.org/document/10198965
  
 
   - title: "AppClassNet: a commercial-grade dataset for application identification research"
-    authors: Chao Wang, Alessandro Finamore, Lixuan Yang, Kevin Fauvel, Dario Rossi
+    authors: <strong>Chao Wang</strong>, Alessandro Finamore, Lixuan Yang, Kevin Fauvel, Dario Rossi
     conference_short: CCR
     conference: ACM SIGCOMM Computer Communication Review, 2022.
     pdf: https://dl.acm.org/doi/10.1145/3561954.3561958
  
 
   - title: "Video-Based Recognition of Online Learning Behaviors Using Attention Mechanisms"
-    authors: Bingchao Huang, Chuantao Yin, Chao Wang, Hui Chen, Yanmei Chai, Yuanxin Ouyang
+    authors: Bingchao Huang, Chuantao Yin, <strong>Chao Wang</strong>, Hui Chen, Yanmei Chai, Yuanxin Ouyang
     conference_short: TALE
     conference: IEEE International Conference on Teaching, Assessment and Learning for Engineering (TALE), 2024.
     pdf: https://www.eurecom.fr/en/publication/8034
