@@ -3,15 +3,15 @@
 
 <div class="services">
 
-<h3 style="margin:10 0px 7px;">Conference Reviewers</h3>
+<h3 style="margin:10 0px 5px;">Conference Reviewers</h3>
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://conferences.sigcomm.org/sigcomm/2024/"><autocolor> ACM Special Interest Group on Data Communication(SIGCOMM) 2024-Artifacts Evaluation</autocolor></a></li>
 </ul>
 
-<h3 style="margin:0 0px 5px;">Journal Reviewers</h3>
+<h3 style="margin:7 0px 5px;">Journal Reviewers</h3>
 
-<ul style="margin:0 0 20px;">
+<ul style="margin:0 0 5px;">
   <li><a href="https://www.sciencedirect.com/journal/computer-networks"><autocolor>Computer Networks</autocolor></a></li>
 </ul>
 
