@@ -19,7 +19,7 @@ I develop generative models-based Multual Information (MI) estimators, and use M
 - Data augmentation for network Traffic Classification (TC): 
 In TC, large-scale datasets with high-quality labeling is expensive. 
 To alleviate this burden,
-I develop augmentation methods by hand-crafted function and generative models to boost classifiers' generalization and robustness in multiple use cases.
+I develop augmentation methods by hand-crafted functions and generative models to boost classifiers' generalization and robustness in multiple use cases.
 
 
 
