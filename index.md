@@ -8,7 +8,7 @@ I am a final-year Ph.D. student (CIFRE) at EURECOM, Sorbonne University and HUAW
 adviced by Pietro Michiardi, Alessandro Finamore, and Giulio Franzese. 
 Before that, 
 I received my double Master/Engineering degree in Data Science from CentraleSupélec, Paris-Saclay University and in System Engineering from Beihang University, 
-and my B.S. degree in Mathematics and Applied Mathematics from Beihang University.
+and my bachelor’s degree in Mathematics and Applied Mathematics from Beihang University.
 I also interned at HUAWEI Paris Research Center and EDF R&D France. My research focuses on:
 
 - Generative models for multimodality: 
@@ -23,11 +23,6 @@ I develop augmentation methods by hand-crafted functions and generative models t
 
 
 
-## Research Interests
-
-- **Machine Learning:** multimodality generative models, mutual information
-- **Traffic Classification:** generative data augmentation, contrastive learning
-
 ## News
 
 - **[Jan. 2025]** Our paper "Information Theoretic Text-to-Image Alignment" is accepted to International Conference on Learning Representations (**ICLR**) 2025!
@@ -35,6 +30,53 @@ I develop augmentation methods by hand-crafted functions and generative models t
 - **[Oct. 2023]** Our paper "Contrastive Learning and Data Augmentation in Traffic Classification Using a Flowpic Input Representation" is accepted to Proceedings of ACM on Internet Measurement Conference (**IMC**) 2023!
 
 
+
+## Education
+
+- Ph.D. in Computer Science, 2022 - 2025
+
+    EURECOM, Sorbonne University \& HUAWEI Paris Research Center <br/>
+
+- M.E. in System Engineering, 2019 - 2022
+
+    Beihang University <br/>
+
+- Engineering degree in Data Science and Information, 2018 - 2021
+
+    CentraleSupélec, Paris-Saclay University <br/>
+
+- B.S. in Mathematics and Applied Mathematics, 2015 - 2019
+
+    Beihang University <br/>
+
+
+## Research Experience
+
+- CIFRE \@ HUAWEI Paris Research Center, Sep. 2022 - Sep. 2025
+
+    Hosts: Alessandro Finamore, Massimo Gallo <br/>
+
+- Research Intern \@ HUAWEI Paris Research Center, Apr. 2021 - Oct. 2021
+
+    Hosts: Alessandro Finamore, Lixuan Yang <br/>
+
+- Research Intern \@ EDF R\&D, July 2020 - Sep. 2020
+
+    Host: Elliot Butty <br/>
+
+
+
+
+
+
+## Research Interests
+
+- **Machine Learning:** multimodality generative models, mutual information
+- **Traffic Classification:** generative data augmentation, contrastive learning
+
+
+
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
