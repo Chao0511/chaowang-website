@@ -1,7 +1,7 @@
 main:
 
   - title: "Information Theoretic Text-to-Image Alignment"
-    authors: Chao Wang, Giulio Franzese, Alessandro Finamore, Massimo Gallo, Pietro Michiardi
+    authors: <strong>Chao Wang</strong>, Giulio Franzese, Alessandro Finamore, Massimo Gallo, Pietro Michiardi
     conference_short: ICLR
     conference: International Conference on Learning Representations (ICLR), 2025.
     pdf: https://arxiv.org/abs/2405.20759
