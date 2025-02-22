@@ -2,19 +2,19 @@
 <ul>
     <li class="text">
       <label> Ph.D. in Computer Science</label>
-      <p> EURECOM, Sorbonne University & HUAWEI Paris Research Center<br>2022 - 2025 </p>
+      <p> EURECOM, Sorbonne University & HUAWEI Paris Research Center<br>Sep. 2022 - Sep. 2025</p>
     </li>
     <li class="text">
-      <label> M.E. in System Engineering, 2019 - 2022</label>
-      <p> Beihang University </p>
+      <label> M.E. in System Engineering</label>
+      <p> Beihang University<br>Sep. 2019 - Jun. 2022</p>
     </li>
     <li class="text">
-      <label> Engineering degree in Data Science and Information, 2018 - 2021</label>
-      <p> CentraleSupélec, Paris-Saclay University </p>
+      <label> Engineering degree in Data Science and Information</label>
+      <p> CentraleSupélec, Paris-Saclay University<br>Sep. 2018 - Dec. 2021</p>
     </li>
     <li class="text">
-      <label> B.S. in Mathematics and Applied Mathematics, 2015 - 2019</label>
-      <p> Beihang University </p>
+      <label> B.S. in Mathematics and Applied Mathematics</label>
+      <p> Beihang University<br>Sep. 2015 - Jun. 2019</p>
     </li>
 </ul>
 
