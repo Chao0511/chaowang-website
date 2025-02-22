@@ -41,12 +41,12 @@ I develop augmentation methods by hand-crafted functions and generative models t
 
 
 
-## Research Interests
+<!-- ## Research Interests
 
 - **Machine Learning:** multimodality generative models, mutual information
 - **Traffic Classification:** generative data augmentation, contrastive learning
 
-
+ -->
 
 {% include_relative _includes/publications.md %}
 
