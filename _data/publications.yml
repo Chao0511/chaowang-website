@@ -4,6 +4,7 @@ main:
     authors: <strong>Chao Wang</strong>, Giulio Franzese, Alessandro Finamore, Pietro Michiardi
     conference_short: ICLR Workshop
     conference: "International Conference on Learning Representations (ICLR) Workshop on Deep Generative Model in Machine Learning: Theory, Principle and Efficacy, 2025."
+    pdf: https://openreview.net/forum?id=8CogNH4vBp&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FWorkshop%2FDeLTa%2FAuthors%23your-submissions)
     page: https://chao0511.github.io/mitune/
 
   - title: "Information Theoretic Text-to-Image Alignment"
