@@ -4,12 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a final-year Ph.D. student (CIFRE) at EURECOM, Sorbonne University and HUAWEI Paris Research Center, 
-adviced by Pietro Michiardi, Alessandro Finamore, and Giulio Franzese. 
+I am a Postdoc Reseasrcher at EURECOM, 
+adviced by Pietro Michiardi and Giulio Franzese. 
 Before that, 
-I received my double Master/Engineering degree in Data Science from CentraleSupélec, Paris-Saclay University and in System Engineering from Beihang University, 
+I received 
+my PhD in Information and Communication Science and Technology,
+my double Master/Engineering degree in Data Science from CentraleSupélec, Paris-Saclay University and in System Engineering from Beihang University, 
 and my bachelor’s degree in Mathematics and Applied Mathematics from Beihang University.
 I also interned at HUAWEI Paris Research Center and EDF R&D France. My research focuses on:
+
+
+<!-- ## - Generative models for Trajectory Inference (TI):
+ -->
 
 - Generative models for multimodality: 
 Generative models (e.g. Diffusion Models, Flow Matching models) for multimodal conditional generation (e.g. Text-to-Image) still face challenges on aligning the generated samples with complex condition signals.

@@ -1,5 +1,9 @@
 <ul>
     <li class="text">
+      <label> <strong> <span style="font-size:larger;color:#3399CC;font-weight: bolder;">Postdoc @ EURECOM</span> </strong></label>
+      <p> Hosts: Pietro Michiardi<br>Sep. 2022 - Sep. 2025</p>
+    </li>
+    <li class="text">
       <label> <strong> <span style="font-size:larger;color:#3399CC;font-weight: bolder;">CIFRE @ HUAWEI Paris Research Center</span> </strong></label>
       <p> Hosts: Alessandro Finamore, Massimo Gallo<br>Sep. 2022 - Sep. 2025</p>
     </li>
