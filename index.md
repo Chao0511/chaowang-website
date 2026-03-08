@@ -8,7 +8,7 @@ I am a Postdoc Reseasrcher at EURECOM,
 adviced by Pietro Michiardi and Giulio Franzese. 
 Before that, 
 I received 
-my PhD in Information and Communication Science and Technology,
+my PhD in Information and Communication Science and Technology from EURECOM, Sorbonne University,
 my double Master/Engineering degree in Data Science from CentraleSupélec, Paris-Saclay University and in System Engineering from Beihang University, 
 and my bachelor’s degree in Mathematics and Applied Mathematics from Beihang University.
 I also interned at HUAWEI Paris Research Center and EDF R&D France. My research focuses on:
