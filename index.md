@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Postdoc Reseasrcher at EURECOM, 
+I am a Postdoc Researcher at EURECOM, 
 adviced by Pietro Michiardi and Giulio Franzese. 
 Before that, 
 I received 
@@ -16,6 +16,10 @@ I also interned at HUAWEI Paris Research Center and EDF R&D France. My research 
 
 <!-- ## - Generative models for Trajectory Inference (TI):
  -->
+
+- Generative models for multiomics: 
+Trajectory Inference (TI) recovers latent dynamics from snapshot data, but evaluation is largely confined to held-out marginal prediction. 
+I develop a framework for estimating KL divergence between probability measures on function space and apply it as a principled TI evaluation criterion.
 
 - Generative models for multimodality: 
 Generative models (e.g. Diffusion Models, Flow Matching models) for multimodal conditional generation (e.g. Text-to-Image) still face challenges on aligning the generated samples with complex condition signals.
@@ -29,6 +33,8 @@ I develop augmentation methods by hand-crafted functions and generative models t
 
 
 ## News
+
+- **[May 2026]** Our paper "Relative Entropy Estimation in Function Space: Theory and Applications to Trajectory Inference" is accepted to International Conference on Machine Learning (**ICML**) 2026!
 
 - **[Jan. 2025]** Our paper "Information Theoretic Text-to-Image Alignment" is accepted to International Conference on Learning Representations (**ICLR**) 2025!
 
