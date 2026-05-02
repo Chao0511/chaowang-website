@@ -1,5 +1,11 @@
 main:
 
+  - title: "Relative Entropy Estimation in Function Space: Theory and Applications to Trajectory Inference"
+    authors: <strong>Chao Wang</strong>, Luca Nepote, Giulio Franzese, Pietro Michiardi
+    conference_short: ICML
+    conference: "International Conference on Machine Learning (ICML), 2026."
+    pdf: https://arxiv.org/abs/2604.20775
+
   - title: "RFMI: Estimating Mutual Information on Rectified Flow for Text-to-Image Alignment"
     authors: <strong>Chao Wang</strong>, Giulio Franzese, Alessandro Finamore, Pietro Michiardi
     conference_short: ICLR Workshop
